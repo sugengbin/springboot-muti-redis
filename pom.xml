@@ -66,7 +66,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>com.sf.o2o.omsproxy.Startup</mainClass>
+					<mainClass>info.sugengbin.springboot.Application</mainClass>
 				</configuration>
 				<executions>
 					<execution>
